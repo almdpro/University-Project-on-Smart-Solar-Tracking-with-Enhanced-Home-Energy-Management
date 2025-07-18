@@ -1,0 +1,12 @@
+Project Name:  
+Smart Solar Tracking (Dual Axis) and Home Energy Management System
+
+Components List:  
+- 0.96" OLED Display (I2C, 128x64)  
+- LDR Sensors – 4 pcs  
+- Arduino Uno  
+- Solar Panel – 2 pcs (2W, 6V each)  
+- SG90 Servo Motors (180°, 4.8V) – 2 pcs (for dual axis) — 135/150tk each  
+- TP4056 Charger (1A Li-ion) — 40tk  
+- 18650 Battery (3.7V 2600mAh) — 450tk  
+- *ACS712 Current Sensor
